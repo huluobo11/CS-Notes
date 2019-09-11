@@ -1,0 +1,3 @@
+democonfigclient:
+  message: hello spring io
+foo: foo version 3
